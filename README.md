@@ -31,9 +31,6 @@ Visit [Local Host](http://localhost/)
 
 ![](https://github.com/Tushar-goyal-2712/News-website/blob/3fcb833ea002672333ed3254e0317d08a1f2be28/Screenshots/design.png)
 
-## 📍 Deployment
-
-The project is deployed on Netlify
 
 ## 👨‍💻 Feedback
 
