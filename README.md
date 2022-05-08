@@ -1,13 +1,8 @@
 
-#  Loop Studios Website Clone
+#  News Website
 
-Clone of Loop Studios website
+News website using Newsapi
 
-
-
-## 💻 Demo
-
-[Loop Studios Clone Website Link](https://loop-studios-landing-page-by-tushar.netlify.app/)
 
 
 ## 📍 Run Locally
@@ -15,7 +10,7 @@ Clone of Loop Studios website
 Clone the project
 
 ```bash
-  git clone https://github.com/Tushar-goyal-2712/Loop-Studios.git
+  git clone https://github.com/Tushar-goyal-2712/News-website.git
 ```
 
 Install node_module dependencies
